@@ -14,3 +14,7 @@ State Filter
 Shape Filter
 
 ![ShapeFilter](https://github.com/drewabramo12/working_with_javascript/blob/main/images/shapeFilter.PNG)
+
+## Summary
+
+The use of this code for filtering does have a drawback in that it only allows for one type of filtering at any given time. I would reccommend developing this code further to allow for deeper filtering and further understanding of relationships between different types of information in the `data.js` file. Another improvement is to build a drop down list of available search items select from within the data table. This search method relies heavily on the user already being familiar with the data to run searches.
